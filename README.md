@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thegan</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyfershepard&theme=onedark" alt="cyfershepard" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-repo.vercel.app/?username=cyfershepard&theme=onedark" alt="cyfershepard" /></a> </p>
 
 - 🌱 I’m currently learning **React and React-Native**
 
