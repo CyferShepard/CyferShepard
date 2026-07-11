@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Thegan Govender's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 2401, Total Commits  (last year) : 303, Total PRs: 51, Total Issues: 35, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 2403, Total Commits  (last year) : 303, Total PRs: 51, Total Issues: 35, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 86.63570977061809;
+        stroke-dashoffset: 86.63431636439599;
       }
     }
   
